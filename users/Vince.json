@@ -1,0 +1,12 @@
+{
+	"Name": "Vince",
+	"Age": 25,
+	"Contact": "1234567890",
+	"Company": "Microsoft",
+	"Address": {
+		"City": "Cavite",
+		"State": "Unitary",
+		"Country": "Philippines",
+		"Pincode": 1770
+	}
+}

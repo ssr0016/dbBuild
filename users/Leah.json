@@ -1,0 +1,12 @@
+{
+	"Name": "Leah",
+	"Age": 21,
+	"Contact": "1234567890",
+	"Company": "Twitter",
+	"Address": {
+		"City": "Alabang",
+		"State": "Unitary",
+		"Country": "Philippines",
+		"Pincode": 1770
+	}
+}

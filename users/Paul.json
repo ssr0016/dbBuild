@@ -1,0 +1,12 @@
+{
+	"Name": "Paul",
+	"Age": 27,
+	"Contact": "123s4567890",
+	"Company": "Google",
+	"Address": {
+		"City": "Muntinlupa",
+		"State": "Unitary",
+		"Country": "Philippines",
+		"Pincode": 1770
+	}
+}

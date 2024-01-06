@@ -1,0 +1,12 @@
+{
+	"Name": "Faith",
+	"Age": 22,
+	"Contact": "1234567890",
+	"Company": "Facebook",
+	"Address": {
+		"City": "San Pedro, Laguna",
+		"State": "Unitary",
+		"Country": "Philippines",
+		"Pincode": 1770
+	}
+}

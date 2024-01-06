@@ -1,0 +1,12 @@
+{
+	"Name": "Dee",
+	"Age": 35,
+	"Contact": "1234567890",
+	"Company": "GMA",
+	"Address": {
+		"City": "Quezon City",
+		"State": "Unitary",
+		"Country": "Philippines",
+		"Pincode": 1770
+	}
+}
